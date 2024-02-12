@@ -40,8 +40,7 @@ public class Main_Class {
 				bookings.add(booking);
 				System.out.println("**************************************************************************");
 				System.out.println("****** Your Booking Is Done. ****** "+"\n"
-						+ "*** If You Want Another BOOKING Please Press 1 ***");
-						
+						+ "*** If You Want Another BOOKING Please Press 1 ***");		
 				break;
 				}
 			else {
